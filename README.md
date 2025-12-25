@@ -1,2 +1,4 @@
-# Property-Calc
-本项目计划利用 CoolProp 库实现换热器的自动化计算
+### 🛠 开发工具
+- [x] 学习了 pip 安装原理
+- [ ] 尝试在 Google Colab 运行第一个 CoolProp 脚本
+- [ ] 将计算出的饱和水蒸气数据填入下表
